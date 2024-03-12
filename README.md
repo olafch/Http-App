@@ -1,1 +1,1 @@
-Whhen installed, add node_modules with npm i
+When installed, add node_modules with npm i

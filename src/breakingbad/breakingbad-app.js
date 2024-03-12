@@ -15,7 +15,6 @@ const fetchQuote = async () => {
 export const BreakingbadApp = async (element) => {
   document.querySelector("#app-title").innerHTML = "Breaking Bad App";
   element.innerHTML = "Loading...";
-  // await fetchQuote();
 
   const quoteLabel = document.createElement("blockquote");
   const authoLabel = document.createElement("h3");
